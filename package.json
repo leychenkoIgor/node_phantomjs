@@ -1,0 +1,13 @@
+{
+  "name": "node-phantomjs",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "./node-phantom.js"
+  },
+  "dependencies": {
+    "socket.io": "*",
+    "node-uuid": "*",
+
+  }
+}
